@@ -28,7 +28,7 @@ As the script runs against the users, if the user name is found in the exclude.t
 ## Needed Files
 The script uses other files. If these files are missing the script will not function. 
 In the same folder as the script, there should be an ../app/ folder. This folder will contain additional scripts, xiq_api.py and logger.py
-In the same folder as the script, there should be a exclude.txt file. This can be left empty if you users are to be excluded.
+In the same folder as the script, there should be a exclude.txt file. This can be left empty if no users are to be excluded.
 
 ## Running the script
 open the terminal to the location of the script and run this command.
